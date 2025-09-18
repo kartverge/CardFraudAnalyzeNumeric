@@ -38,17 +38,7 @@ A key challenge in this project was the **extreme class imbalance**; fraudulent 
 After training the model on the balanced data, I evaluated its performance using key metrics like the **Classification Report**, **Confusion Matrix**, and **ROC-AUC Score** to ensure the model's reliability in a real-world scenario.
 
 ## Result
-![diagram_result](../assets/Figure_1.png)
-
-![diagram_result](../assets/Figure_11.png)
-
-![diagram_result](..assets/Figure_12.png)
-
-![diagram_result](../assets/Figure_111.png)
-
-![diagram_result](../assets/Figure_13.png)
-
-![diagram_result](../assets/Figure_14.png)
+(DIAGRAMS IN ASSETS)
 
 As you can see the most frequent frauds happen on Wednesday or Sunday on 4AM in Milans store branches by people that age are higher 60+. The amount of the transaction is 50-60$. This numbers are most likely the cause of the fraudulent activity.
 
